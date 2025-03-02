@@ -1,4 +1,4 @@
-# HEALTHPIX Deep Learning for Disease Identification in Medical Image Datasets
+# Data Challenge 1
 
 This work is done by students from TU/e university
 
